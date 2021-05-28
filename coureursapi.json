@@ -3,9 +3,7 @@
   "results": [
     {
       "name": "Julian Alaphilippe",
-	  "nationalite": "FR",
-      "age": "28",
-	  "equipe": "Deceuninck Quick Step"   
+	  "nationalite": "FR"
     },
     {
       "name": "David Gaudu",
